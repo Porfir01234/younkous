@@ -13,6 +13,7 @@
 		F1AAC2242C6E57A1006F2224 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F1AAC2232C6E57A1006F2224 /* Base */; };
 		F1AAC2262C6E57A4006F2224 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1AAC2252C6E57A4006F2224 /* Assets.xcassets */; };
 		F1AAC2292C6E57A4006F2224 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F1AAC2282C6E57A4006F2224 /* Base */; };
+		F1AAC2312C6E5B6F006F2224 /* SecundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1AAC2302C6E5B6F006F2224 /* SecundViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F1AAC2252C6E57A4006F2224 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F1AAC2282C6E57A4006F2224 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F1AAC22A2C6E57A4006F2224 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1AAC2302C6E5B6F006F2224 /* SecundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecundViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F1AAC21C2C6E57A1006F2224 /* AppDelegate.swift */,
 				F1AAC21E2C6E57A1006F2224 /* SceneDelegate.swift */,
 				F1AAC2202C6E57A1006F2224 /* ViewController.swift */,
+				F1AAC2302C6E5B6F006F2224 /* SecundViewController.swift */,
 				F1AAC2222C6E57A1006F2224 /* Main.storyboard */,
 				F1AAC2252C6E57A4006F2224 /* Assets.xcassets */,
 				F1AAC2272C6E57A4006F2224 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				F1AAC2212C6E57A1006F2224 /* ViewController.swift in Sources */,
 				F1AAC21D2C6E57A1006F2224 /* AppDelegate.swift in Sources */,
+				F1AAC2312C6E5B6F006F2224 /* SecundViewController.swift in Sources */,
 				F1AAC21F2C6E57A1006F2224 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
